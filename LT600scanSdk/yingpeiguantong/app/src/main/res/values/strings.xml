@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LT600ScanBarcode</string>
+    <string name="scan">扫描</string>
+    <string name="instruction">此Demo仅可以在LT600DI设备使用！
+扫描触发后亮红灯去扫描条码，一旦扫描成功，
+扫描动作结束，然后将扫描结果显示到光标所在。
+如果没有扫描成功，两秒后扫描动作结束(红灯灭)。</string>
+</resources>
