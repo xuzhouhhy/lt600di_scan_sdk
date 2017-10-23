@@ -1,0 +1,2 @@
+# lt600di_scan_sdk
+LT600DI设备一维码扫描帮助文档和demo
